@@ -3,7 +3,7 @@
 
 ## Note for running
 1. Programming Language: Python 3 on Jupyter Notebook
-2. Required packaged: pandas, numpy, sklearn, statsmodels, datetime
+2. Required packages: pandas, numpy, sklearn, statsmodels, datetime
 
 ## Feature engineering
 1. if n_jobs = -1, change to 16
