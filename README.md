@@ -14,6 +14,6 @@
 6. y = log(time)
 
 ## Model
-Weighted linear regression (Degree 1 and 2) on x
-Fit weighted linear regression by groups (n_jobs and penalty)
-Weight is the exponetial of normalized x
+Weighted linear regression (Degree 1 and 2) on x <br>
+Fit weighted linear regression by groups (n_jobs and penalty) <br>
+Weight is the exponetial of normalized x <br>
