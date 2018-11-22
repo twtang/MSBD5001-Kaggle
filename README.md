@@ -16,4 +16,4 @@
 ## Model
 Weighted linear regression (Degree 1 and 2) on x <br>
 Fit weighted linear regression by groups (n_jobs and penalty) <br>
-Weight is the exponetial of normalized x <br>
+Weight is the exponential of normalized x <br>
