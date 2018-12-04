@@ -4,7 +4,7 @@
 ## Note for running
 1. Programming Language: Python 3 on Jupyter Notebook
 2. Required packages: pandas, numpy, sklearn, statsmodels, datetime
-3. How to run: Place the train.csv in the same directory as Individual Project-V2.ipynb. Run the Jupyter Notebook directly.
+3. How to run: Place the train.csv and test.csv in the same directory as Individual Project-V2.ipynb. Run the Jupyter Notebook directly.
 
 ## Feature engineering
 1. if n_jobs = -1, change to 16
